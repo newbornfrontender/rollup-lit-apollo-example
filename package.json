@@ -1,0 +1,9 @@
+{
+  "name": "rollup-lit-apollo-example",
+  "version": "1.0.0",
+  "description": "Простой проект на Rollup для теста Apollo и LitElement",
+  "repository": "https://github.com/newbornfrontender/rollup-lit-apollo-example.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
