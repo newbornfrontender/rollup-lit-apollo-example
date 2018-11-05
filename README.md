@@ -1,4 +1,4 @@
-<h1 align="center">Rollup lit-apollo example<h1>
+<h1 align="center">Rollup lit-apollo example</h1>
 
 Простой проект на Rollup для теста Apollo и LitElement
 
