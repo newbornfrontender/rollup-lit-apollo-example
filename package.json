@@ -6,6 +6,10 @@
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "build": "rollup --config",
+    "build:watch": "rollup --config --watch"
+  },
   "dependencies": {
     "lit-apollo": "^0.6.8"
   },
