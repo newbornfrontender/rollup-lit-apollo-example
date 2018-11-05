@@ -4,10 +4,10 @@
 
 > Рекомендуется использовать Yarn
 
-<h2 align="center">Описание<h2>
+<h2 align="center">Описание</h2>
 
 Скоро будет...
 
-<h2 align="center">Лицензия<h2>
+<h2 align="center">Лицензия</h2>
 
 [MIT](/LICENSE)
