@@ -7,8 +7,9 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "rollup --config",
-    "build:watch": "rollup --config --watch"
+    "clean": "rm -rf public/js",
+    "build": "yarn clean && rollup --config",
+    "build:watch": "yarn build --watch"
   },
   "dependencies": {
     "lit-apollo": "^0.6.8"
